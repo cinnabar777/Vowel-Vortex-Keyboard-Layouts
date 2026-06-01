@@ -467,6 +467,13 @@ For anyone wanting to use one of these layouts I suggest first testing how you l
 
 All in all I am happy with the Vowel Vortex layouts, they offer increased word clarity, more comfortable typing on mobile (bigger keys), retain high familiarity with QWERTY, and are flexible, they can be customized to every person's preferences. 
 
+You can find the code for a few layouts for FUTO keyboard in the files.
+
+My choice is staying with the closest muscle memory and making all the keys the same size:
+
+<img width="1080" height="964" alt="1000113691" src="https://github.com/user-attachments/assets/1f4c776d-f3f4-486c-8917-1aa7f6f75036" />
+
+
 .
 
 .
