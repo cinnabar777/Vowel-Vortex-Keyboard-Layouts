@@ -206,6 +206,9 @@ Copilot also tore apart Gemini's top universal layout, it didn't like it for flo
 
 Using this layout on row 4 does make the glide typing "flow", longer sweeping gestures diving in and out of row four, for some those longer gestures are bad.
 
+### SECOND COPILOT ANALYSIS
+
+Got some time in the same chat and attempted to have Copilot do analysis of "word swallows" and gesture paths of the too 100, using their percentages, and top 1,000 words, didn't really work well. Overall R2-AEUIO is the best to use as universal and it's more efficient. Tested against ClearFlow, and as I expected, ClearFlow wins but the "efficiency" is 3.0 vs 3.8 distance overall. That's less than one key, though Vowel Vortex does pick up penalties due to vowels next to each other, higher risk of potential error with similar words: than vs then etc. That is the trade off, retain more familiarity, lower learning curve, bigger keys, slightly more distance, and certain potential word error conflicts increased. 
 
 ### GEMINI OPTIMIZATION
 
