@@ -476,6 +476,23 @@ My choice is staying with the closest muscle memory and making all the keys the 
 
 <img width="1080" height="964" alt="1000113691" src="https://github.com/user-attachments/assets/1f4c776d-f3f4-486c-8917-1aa7f6f75036" />
 
+# TIPS
+
+I've finally used one specific version of the Vowel Vortex Layout for several days now and there are a few "tips" that might be helpful.
+
+First, because the vowels are grouped together you want to make them a sure hit. One key to glide typing in general is, make sure you are as accurate as possible on the starting and ending letters, this holds for vowels on this layout. Hit the start, the vowel(s), and the end and it seems to do very well. The more accurate you are on the vowels the less errors you'll have.
+
+I've noticed that most of my errors are by missing the end consonant when they are on the edge, especially s and m. Try and get into the habit of overshooting edge vowels, go to the edge of the screen or up against the phone case if you have one. 
+
+Use the delete and shift keys as part of the vowel. Once a Swype is in progress the function keys are non-reactive and can be glided over.
+
+Dip from vowel to vowel instead of going straight through.
+
+Glide above the keys or below, again these areas don't do anything during a gesture, so use them when you can to go around letters.
+
+Blacklist is your friend! There are always conflicts with other words, so blacklist what you can, especially potential conflicts with the top 100 words. 
+
+Practice frequently, a few minutes here and there, will help condition you to the new layout. Try not to use different layouts during the initial learning period, this is just basic conditioning. 
 
 .
 
