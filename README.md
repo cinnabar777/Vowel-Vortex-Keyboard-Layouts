@@ -145,6 +145,8 @@ It looks ugly, malformed, and insane but performs amazingly well! You really hav
 
 If the keyboard you are using allows for custom dictionaries, using a significantly smaller dictionary has dramatic effects on glide typing word clarity! There's a reason Swype used a dictionary that was around 50,000 words and not the 150,000+ word dictionaries many keyboards are using today. 
 
+I cleaned up the HeliBoard dictionaries, you can find them [here](https://github.com/cinnabar777/AOSP-Dictionary/tree/main/Personal_Dic). 
+
 ## MAXIMUM FAMILIARITY
 
 The above image compares the 'clarity' layout to QWERTY, look at how you would make the gestures, this layout maximizes familiarity, from the start you aren't hunting for letters, minimizing the learning curve.
