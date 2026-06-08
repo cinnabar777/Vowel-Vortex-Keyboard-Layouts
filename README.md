@@ -141,6 +141,10 @@ This gave me, what I call, the "Vowel Vortex Clarity" layout:
 
 It looks ugly, malformed, and insane but performs amazingly well! You really have to try to get words wrong when using this layout. The main errors come from consonants, especially those close consonants on the bottom row, like N and M that result in 'then' vs 'them' errors. 
 
+Or a more spacious version, my preference: 
+
+![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_R2-AEUIO_Clarity2.png)
+
 ## SMALLER DICTIONARY
 
 If the keyboard you are using allows for custom dictionaries, using a significantly smaller dictionary has dramatic effects on glide typing word clarity! There's a reason Swype used a dictionary that was around 50,000 words and not the 150,000+ word dictionaries many keyboards are using today. 
