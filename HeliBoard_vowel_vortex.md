@@ -327,7 +327,7 @@
 ```
 
 
-# Vowel Vortex symbols
+# Symbols
 
 ```
 % ‰
@@ -365,7 +365,7 @@ _ % ‰
 
 ```
 
-# Vowel Vortex more symbols
+# More Symbols
 
 ```
 ~
