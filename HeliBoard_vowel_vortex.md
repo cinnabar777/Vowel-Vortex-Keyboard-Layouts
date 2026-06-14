@@ -119,10 +119,10 @@
     },
     { "label": "'", "type": "normal", "width": 0.07, "popup": { "main": { "label": "." } }
     },
-    { "label": "e", "type": "normal", "width": 0.172, "popup": { "main": { "label": "9" } , "relevant":
+    { "label": "e", "type": "normal", "width": 0.172, "popup": { "main": { "label": "8" } , "relevant":
         [
-            { "label": "⁹" },
-            { "label": "₉"},
+            { "label": "⁸" },
+            { "label": "₈"},
             { "label": "!" }, 
             { "label": "¡"},
             { "label": "="},
@@ -136,19 +136,23 @@
             { "label": "![[]]"}
         ] }
     },
-    { "label": "u", "type": "normal", "width": 0.172, "popup": { "main": { "label": "0" }, "relevant":
+    { "label": "u", "type": "normal", "width": 0.172, "popup": { "main": { "label": "9" }, "relevant":
         [
-            { "label": "⁰" },
-            { "label": "₀" },
+            { "label": "⁹" },
+            { "label": "₉" },
             { "label": "÷"},
             { "label": "_"}
         ] }
     },
-    { "label": "i", "type": "normal", "width": 0.172, "popup": { "main": { "label": "×" } , "relevant":
+    { "label": "i", "type": "normal", "width": 0.172, "popup": { "main": { "label": "0" } , "relevant":
         [
+            { "label": "⁰" },
+            { "label": "₀" },
+            { "label": "×"},
             { "label": "∞" },
             { "label": "[[]]"},
-            { "label": "~" }
+            { "label": "~" },
+            { "label": "ⁿ" }
         ] }
     },
     { "label": ", ", "type": "normal", "width": 0.07, "popup": { "main": { "label": "." } }
@@ -269,7 +273,7 @@
             { "label": ":" }, 
             { "label": "©" },
             { "label": "®" }, 
-            { "label": "™" }
+            { "label": "\u2122" }
         ] }
     },
     { "label": "b", "type": "normal", "width": 0.143, "popup": { "main": { "label": ";" } , "relevant":
@@ -289,8 +293,8 @@
     },
     { "label": "m", "type": "normal", "width": 0.143, "popup": { "main": { "label": "?" }, "relevant":
         [
-            { "label": "¿" },
             { "label": "‽" },
+            { "label": "¿" },
             { "label": "×" },
             { "label": "μ" },
             { "label": "♪" },
