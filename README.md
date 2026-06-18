@@ -3,6 +3,9 @@
 
 ![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_R2AEUIO_SQUARE.png)
 
+
+![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_Clarity_2.0.png)
+
 ## DESCRIPTION
 
 The Vowel Vortex Layouts were inspired by the ClearFlow layout, for use with Android keyboards like [FUTO Keyboard](https://keyboard.futo.org/), [HeliBoard](https://github.com/HeliBorg/HeliBoard), and [FlorisBoard](https://github.com/florisboard/florisboard) that allow custom layouts to be used. The layouts are focused on glide (Swype, swipe, or gesture) typing on mobile without sacrificing thumb typing, increasing word clarity (decreasing typos) while maintaining familiarity with the qwerty layout.
