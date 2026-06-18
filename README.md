@@ -220,7 +220,13 @@ Glide above the keys or below, again these areas don't do anything during a gest
 
 Blacklist is your friend! There are always conflicts with other words, so blacklist what you can, especially potential conflicts with the top 100 words. 
 
-Practice frequently, a few minutes here and there, will help condition you to the new layout. Try not to use different layouts during the initial learning period, this is just basic conditioning. 
+Practice frequently, a few minutes here and there, will help condition you to the new layout. Try not to use different layouts during the initial learning period, this is just basic conditioning.
+
+After getting some time to really use these layouts I've come to liking the "Clarity 2.0" version:
+
+![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_Clarity_2.0.png)
+
+I've also found it best, once you start getting the layout down, to switch to the regular qwerty layout from time to time. This seems to actually help, this layout feels much bigger after some qwerty time, secondly, while keeping you proficient on both layouts it can help you stay aware and more focused on your typing instead of it falling into an automatic gesture mess. 
 
 .
 
