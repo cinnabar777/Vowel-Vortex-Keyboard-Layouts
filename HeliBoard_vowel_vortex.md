@@ -11,7 +11,7 @@
             { "label": "?"},
             { "label": "~" }, 
             { "label": "¿"},
-            { "label": "¹"},
+            { "label": "¹"}, 
             { "label": "₁"},
             { "label": "½"},
             { "label": "⅓"},
@@ -53,9 +53,9 @@
             { "label": "⅘"}
         ] }
     },
-    { "label": "y", "type": "normal", "width": 0.143, "popup": { "main": { "label": "redo" } , "relevant":
+    { "label": "y", "type": "normal", "width": 0.143, "popup": { "main": { "label": "5" } , "relevant":
         [
-            { "label": "5" },
+            { "label": "redo" },
             { "label": "⁵" },
             { "label": "₅" },
             { "label": "⅚" },
@@ -66,8 +66,8 @@
     { "label": "p", "type": "normal", "width": 0.143, "popup": { "main": { "label": "6" }, "relevant":
         [
             { "label": "⁶" },
+            { "label": "."},
             { "label": "₆"},
-            { "label": "="},
             { "label": "|"},
             { "label": "%"},
             { "label": "‰"},
@@ -77,7 +77,8 @@
             { "label": "±"},
             { "label": "#"},
             { "label": "⁺"},
-            { "label": "₊"}
+            { "label": "₊"},
+            { "label": "="}
         ] }
     }, 
     { "label": "l", "type": "normal", "width": 0.143, "popup": { "main": { "label": "7" } , "relevant":
@@ -100,11 +101,8 @@
   ],
 // ROW 2
   [
-    { "label": "a", "type": "normal", "width": 0.172, "popup": { "main": { "label": "select_all" } , "relevant":
+    { "label": "a", "type": "normal", "width": 0.16, "popup": { "main": { "label": "select_all" } , "relevant":
         [
-            { "label": "8" },
-            { "label": "⁸" },
-            { "label": "₈" },
             { "label": "tab" },
             { "label": "@" },
             { "label": "~" },
@@ -117,9 +115,20 @@
             { "label": "↓"}
         ] }
     },
-    { "label": "'", "type": "normal", "width": 0.07, "popup": { "main": { "label": "." } }
+    { "label": "'", "type": "normal", "width": 0.10, "popup": { "main": { "label": "undo" }  , "relevant":
+        [
+            { "label": "clipboard" },
+            { "label": "select_all" },
+            { "label": "cut" },
+            { "label": "copy"},
+            { "label": "paste"},
+            { "label": "redo"},
+            { "label": "emoji"},
+            { "label": "settings"},
+            { "label": "numpad"}
+        ] }
     },
-    { "label": "e", "type": "normal", "width": 0.172, "popup": { "main": { "label": "8" } , "relevant":
+    { "label": "e", "type": "normal", "width": 0.16, "popup": { "main": { "label": "8" } , "relevant":
         [
             { "label": "⁸" },
             { "label": "₈"},
@@ -136,7 +145,7 @@
             { "label": "![[]]"}
         ] }
     },
-    { "label": "u", "type": "normal", "width": 0.172, "popup": { "main": { "label": "9" }, "relevant":
+    { "label": "u", "type": "normal", "width": 0.16, "popup": { "main": { "label": "9" }, "relevant":
         [
             { "label": "⁹" },
             { "label": "₉" },
@@ -144,7 +153,7 @@
             { "label": "_"}
         ] }
     },
-    { "label": "i", "type": "normal", "width": 0.172, "popup": { "main": { "label": "0" } , "relevant":
+    { "label": "i", "type": "normal", "width": 0.16, "popup": { "main": { "label": "0" } , "relevant":
         [
             { "label": "⁰" },
             { "label": "₀" },
@@ -155,9 +164,29 @@
             { "label": "ⁿ" }
         ] }
     },
-    { "label": ", ", "type": "normal", "width": 0.07, "popup": { "main": { "label": "." } }
+    { "label": ",", "type": "normal", "width": 0.10, "popup": { "main": { "label": "." }  , "relevant":
+        [
+            { "label": "\u0022" },
+            { "label": "?" },
+            { "label": "!" },
+            { "label": "numpad"},
+            { "label": ":"},
+            { "label": ";"},
+            { "label": "-"},
+            { "label": "—"},
+            { "label": "–"},
+            { "label": "/" },
+            { "label": "\\"},
+            { "label": "|"},
+            { "label": "#"},
+            { "label": "@"},
+            { "label": "&"},
+            { "label": "()"},
+            { "label": "[]"},
+            { "label": "{}"}
+        ] }
     },
-    { "label": "o", "type": "normal", "width": 0.172, "popup": { "main": { "label": "•" } , "relevant":
+    { "label": "o", "type": "normal", "width": 0.16, "popup": { "main": { "label": "•" } , "relevant":
         [
             { "label": "ⁿ" },
             { "label": "∅"},
@@ -244,33 +273,33 @@
   ],
 // ROW 4
   [
-    { "label": "z", "type": "normal", "width": 0.143, "popup": { "main": { "label": "undo"  }, "relevant":
+    { "label": "z", "type": "normal", "width": 0.143, "popup": { "main": { "label": "*"  }, "relevant":
         [
-            { "label": "*" },
+            { "label": "undo" },
             { "label": "%" },
             { "label": "★" },
             { "label": "†" },
             { "label": "‡" }
         ] }
     },
-    { "label": "x", "type": "normal", "width": 0.143, "popup": { "main": { "label": "cut" }, "relevant":
+    { "label": "x", "type": "normal", "width": 0.143, "popup": { "main": { "label": "\u0022" }, "relevant":
         [
-            { "label": "\u0022" },
+            { "label": "cut" },
             { "label": "×" }
         ] }
     },
-    { "label": "c", "type": "normal", "width": 0.143, "popup": { "main": { "label": "copy" }, "relevant":
+    { "label": "c", "type": "normal", "width": 0.143, "popup": { "main": { "label": "'" }, "relevant":
         [
+            { "label": "copy" }, 
             { "label": "," }, 
-            { "label": "'" }, 
-            { "label": "```" }, 
+            { "label": "```\n\n```" }, 
             { "label": "√" },
             { "label": "^" }
         ] }
     },
-    { "label": "v", "type": "normal", "width": 0.143, "popup": { "main": { "label": "paste" }, "relevant":
+    { "label": "v", "type": "normal", "width": 0.143, "popup": { "main": { "label": ":" }, "relevant":
         [
-            { "label": ":" }, 
+            { "label": "paste" }, 
             { "label": "©" },
             { "label": "®" }, 
             { "label": "\u2122" }
@@ -278,6 +307,7 @@
     },
     { "label": "b", "type": "normal", "width": 0.143, "popup": { "main": { "label": ";" } , "relevant":
         [
+            { "label": "." },
             { "label": "✓" },
             { "label": "•" },
             { "label": "·" },
@@ -313,22 +343,6 @@
 ]
 ```
 
-# Functional keys
-
-```
-[
-  [
-    { "label": "symbol_alpha", "width": 0.15 },
-    { "label": "shift", "width": 0.15 },
-    { "$": "keyboard_state_selector", "languageKeyEnabled": { "$": "keyboard_state_selector", "alphabet": { "label": "language_switch" }}},
-    { "$": "keyboard_state_selector", "emojiKeyEnabled": { "$": "keyboard_state_selector", "alphabet": { "label": "emoji" }}},
-    { "$": "keyboard_state_selector", "symbols": { "label": "numpad" }},
-    { "label": "space" }, 
-    { "label": "action", "width": 0.15 }, 
-    { "label": "delete", "width": 0.15 }
-  ]
-]
-```
 
 
 # Symbols
@@ -425,10 +439,59 @@ $$$4
 ]
 . ,  ' ? ! # ( ) / \ ; @ : - – — _ " + % &
 > ≥ › » ⟩ ) ] }
+
 ```
 
 
 
 
+# Functional keys
 
+```
+[
+  [
+    { "label": "symbol_alpha", "width": 0.143 },
+    { "label": "shift", "width": 0.143 },
+    { "$": "keyboard_state_selector", "languageKeyEnabled": { "$": "keyboard_state_selector", "alphabet": { "label": "language_switch" }}},
+    { "$": "keyboard_state_selector", "emojiKeyEnabled": { "$": "keyboard_state_selector", "alphabet": { "label": "emoji" }}},
+    { "$": "keyboard_state_selector", "symbols": { "label": "numpad" }},
+    { "label": "space" }, 
+    { "label": "action", "width": 0.20 }, 
+    { "label": "delete", "width": 0.143 }
+  ]
+]
+```
 
+# EMOJI BOTTOM ROW
+
+```
+[
+  [
+    { "label": "symbol_alpha", "width": 0.15 },
+    { "label": "shift", "width": 0.15 },
+    { "$": "keyboard_state_selector", "languageKeyEnabled": { "$": "keyboard_state_selector", "alphabet": { "label": "language_switch" }}},
+    { "$": "keyboard_state_selector", "emojiKeyEnabled": { "$": "keyboard_state_selector", "alphabet": { "label": "emoji" }}},
+    { "$": "keyboard_state_selector", "symbols": { "label": "numpad" }},
+    { "label": "space", "width": 0.4}, 
+    { "label": "action", "width": 0.15 }, 
+    { "label": "delete", "width": 0.15 }
+  ]
+]
+```
+
+# CLIPBOARD BOTTOM ROW
+
+```
+[
+  [
+    { "label": "symbol_alpha", "width": 0.15 },
+    { "label": "shift", "width": 0.15 },
+    { "$": "keyboard_state_selector", "languageKeyEnabled": { "$": "keyboard_state_selector", "alphabet": { "label": "language_switch" }}},
+    { "$": "keyboard_state_selector", "emojiKeyEnabled": { "$": "keyboard_state_selector", "alphabet": { "label": "emoji" }}},
+    { "$": "keyboard_state_selector", "symbols": { "label": "numpad" }},
+    { "label": "space", "width": 0.4}, 
+    { "label": "action", "width": 0.15 }, 
+    { "label": "delete", "width": 0.15 }
+  ]
+]
+```
