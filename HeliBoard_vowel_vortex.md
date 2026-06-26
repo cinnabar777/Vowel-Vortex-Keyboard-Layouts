@@ -1,6 +1,8 @@
 
 # Vowel Vortex main
 
+Clarity 3.0
+
 ```
 [
 // ROW 1
@@ -101,7 +103,7 @@
   ],
 // ROW 2
   [
-    { "label": "a", "type": "normal", "width": 0.16, "popup": { "main": { "label": "select_all" } , "relevant":
+    { "label": "a", "type": "normal", "width": 0.143, "popup": { "main": { "label": "select_all" } , "relevant":
         [
             { "label": "tab" },
             { "label": "@" },
@@ -128,7 +130,7 @@
             { "label": "numpad"}
         ] }
     },
-    { "label": "e", "type": "normal", "width": 0.16, "popup": { "main": { "label": "8" } , "relevant":
+    { "label": "e", "type": "normal", "width": 0.1855, "popup": { "main": { "label": "8" } , "relevant":
         [
             { "label": "⁸" },
             { "label": "₈"},
@@ -145,7 +147,7 @@
             { "label": "![[]]"}
         ] }
     },
-    { "label": "u", "type": "normal", "width": 0.16, "popup": { "main": { "label": "9" }, "relevant":
+    { "label": "u", "type": "normal", "width": 0.143, "popup": { "main": { "label": "9" }, "relevant":
         [
             { "label": "⁹" },
             { "label": "₉" },
@@ -153,7 +155,7 @@
             { "label": "_"}
         ] }
     },
-    { "label": "i", "type": "normal", "width": 0.16, "popup": { "main": { "label": "0" } , "relevant":
+    { "label": "i", "type": "normal", "width": 0.1855, "popup": { "main": { "label": "0" } , "relevant":
         [
             { "label": "⁰" },
             { "label": "₀" },
@@ -186,7 +188,7 @@
             { "label": "{}"}
         ] }
     },
-    { "label": "o", "type": "normal", "width": 0.16, "popup": { "main": { "label": "•" } , "relevant":
+    { "label": "o", "type": "normal", "width": 0.143, "popup": { "main": { "label": "•" } , "relevant":
         [
             { "label": "ⁿ" },
             { "label": "∅"},
