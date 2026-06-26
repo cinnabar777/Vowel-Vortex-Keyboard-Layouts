@@ -231,6 +231,12 @@ After getting some time to really use these layouts I've come to liking the "Cla
 
 I've also found it best, once you start getting the layout down, to switch to the regular qwerty layout from time to time. This seems to actually help, this layout feels much bigger after some qwerty time, secondly, while keeping you proficient on both layouts it can help you stay aware and more focused on your typing instead of it falling into an automatic gesture mess. 
 
+**Clarity 3.0**
+
+Some minor sizing adjustments to help differentiate the vowels. 
+
+![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_Clarity_3.0.png)
+
 .
 
 .
