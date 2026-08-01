@@ -1,0 +1,144 @@
+name: MyBoard
+
+bottomRowHeightMode: Flexible
+
+# numberRowMode: AlwaysEnabled
+
+overrideWidths:
+  Custom1: 0.142        # 
+  Custom2: 0.10         # 
+  Custom3: 0.06         # '
+  Custom4: 0.01         # 
+
+rows:
+
+  - letters: [
+  {type: base, spec: 'q', 
+      hint: " ",  
+      moreKeys: [
+      1, "~", "\u0022", "?", 
+      ‽, ¹, ₁, ½, 
+      ⅓, ¼, ⅕, ⅙, 
+      ⅐, ⅛, ⅑, ⅒]},
+  
+  {type: base, spec: 'w', 
+      hint: " ",  
+      moreKeys: [2, ², ₂, "`", ⅔, ⅖]},
+  
+  {type: base, spec: 'e', 
+      hint: " ",  
+      moreKeys: [
+      3, "|", ³, ₃, 
+      ¾, ⅗, ⅜, "…", 
+      —, –, "!", ¡, 
+      =, ≠, ≈, "![[]]"]},
+  
+  {type: base, spec: 'r', 
+      hint: " ",  
+      moreKeys: [
+      4, ⁴, ₄, ®, •, ⅘]},
+  
+  {type: base, spec: 't', 
+      hint: " ",  
+      moreKeys: [
+      5, ⁵, ₅, ⅚, 
+      ⅝, √, "`", "~", 
+      ×, ™, '!icon/tab_key|!code/key_tab']},
+  
+  {type: base, spec: 'y', 
+      hint: " ",  
+      moreKeys: [
+      6, '!icon/action_redo|!code/action_redo', 
+      ⁶, π, ₆]},
+  
+  {type: base, spec: 'u', 
+      hint: " ",  
+      moreKeys: [
+      7, ⁷, ₇, "_", ÷, ⅞]},
+  
+  {type: base, spec: 'i', 
+      hint: " ",  
+      moreKeys: [
+      8, '!icon/action_voice_input|!code/action_voice_input', ⁸, ₈, 
+      ×, ∞, "[[]]"]},
+  
+  {type: base, spec: 'o', 
+      hint: " ",  
+      moreKeys: [
+      9, ⁹, ₉, ∅, ⁿ, 
+      •, °, Ω]},
+  
+  {type: base, spec: 'p', 
+      hint: " ",  
+      moreKeys: [
+      0, '!icon/numpad|!code/key_to_number_layout', ⁰, ₀, 
+      =, "|", "%|%", ‰, 
+      π, Π, "#", +, 
+      ±, ₊, ⁺]}]
+  
+  - letters: [
+  [a, '!icon/action_select_all|!code/action_select_all', "@", "&", '!icon/tab_key|!code/key_tab', ←, ↑, ↓, →, "*", '~', "'", ],
+  
+  [s, "#", ";", №, §, ★, ¶],
+  
+  [d, $, €, £, ¢, ¥, ₱, °, ₹, ÷, ∆, †, ‡, "\u0022"],
+  
+  [f, _, '!icon/action_text_edit|!code/action_text_edit', "%|%"],
+
+  [g, "&", ^, ">", ·, ←, ↑, ↓, →],
+
+  [h, "-", '!icon/action_clipboard_history|!code/action_clipboard_history', —, –, ·, °],
+  
+  [j, +, ±, =, ≠, ≈, ∞, ×, ÷],
+  
+  [k, "(", "[", "⟨", "{", "/", "|", "<", "≤", "‹", "«"],
+  
+  [l, ")", "]", "⟩", "}", "\\", "|", ">", "≥", "›", "»"]]
+  
+  - letters: [
+  $shift,
+  
+  [z, "*", '!icon/action_undo|!code/action_undo', "%|%", ★, †, ‡],
+  
+  [x, "\u0022", '!icon/action_cut|!code/action_cut', ×],
+  
+  [c, "'", '!icon/action_copy|!code/action_copy', ":", ",", ^, ©, "```", √],
+  
+  [v, ":", '!icon/action_paste|!code/action_paste'],
+  
+  [b, ";", •, ·],
+  
+  [n, "!", ⁿ, ¡, №],
+  
+  [m, "?", ¿, ‽,  
+  μ, "[]()", ×,
+  =, ≈, ≠, ∞, 
+  +, ±, ÷, ♪],
+  
+  $delete]
+  
+  - bottom: 
+    - $symbols
+    
+    - {type: base, spec: ",", 
+    attributes: { width: Custom2 }, 
+    moreKeys: [
+    "!icon/action_voice_input|!code/action_voice_input", 
+    "!icon/action_clipboard_history|!code/action_clipboard_history", 
+    "!icon/action_text_edit|!code/action_text_edit", 
+    "!icon/numpad|!code/key_to_number_layout", 
+    "!icon/action_select_all|!code/action_select_all", 
+    "!icon/action_cut|!code/action_cut", 
+    "!icon/action_copy|!code/action_copy", 
+    "!icon/action_paste|!code/action_paste", 
+    "!icon/action_redo|!code/action_redo", 
+    "!icon/action_undo|!code/action_undo"]}
+
+    - $space
+        
+    - {type: base, spec: ".",
+    moreKeys: [ "'", "\u0022", 
+    '!icon/numpad|!code/key_to_number_layout', "?", "!", "'", ":", ";", "-", "—", "–", "/", "\\", "|", "#", "@", "&", "()", "[]", "{}", ">", "<", "$", "%|%", "*", "…", "°", "·", "~", "+", "=", "÷", "[]()", "[[]]", "![[]]", "```", "`", "'", "(", ")", "]", "[", "}", "{", ",", "¢", "↑", "↓", "←", "→"
+    ]}
+    
+    - $enter
