@@ -1,0 +1,403 @@
+[
+
+
+// ROW 1
+
+
+  [
+    { "label": "q", "type": "normal", "labelFlags": 64, "width": 0.143, "popup": { "main": { "label": "1" }, "relevant":
+        [
+            
+            { "label": "!autoOrder!6" },
+            { "label": "~" },
+            { "label": "\u0022" }, 
+            { "label": "?"},
+            { "label": "‽"},
+            { "label": "¿"},
+            { "label": "¹"}, 
+            { "label": "₁"},
+            { "label": "½"},
+            { "label": "⅓"},
+            { "label": "¼"},
+            { "label": "⅕"},
+            { "label": "⅙"},
+            { "label": "⅐"},
+            { "label": "⅛"},
+            { "label": "⅑"},
+            { "label": "⅒"}
+        ] }
+    },
+
+
+    { "label": "w", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "2" }, "relevant":
+        [
+            { "label": "!autoOrder!6" },
+            { "label": "²"},
+            { "label": "`"},
+            { "label": "₂"},
+            { "label": "⅔"},
+            { "label": "⅖"}
+        ] }
+    },
+
+
+    { "label": "r", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "3" } , "relevant":
+        [
+            { "label": "!autoOrder!8" },
+            { "label": "³" },
+            { "label": "₃"},
+            { "label": "¾" }, 
+            { "label": "⅗"},
+            { "label": "⅜"},
+            { "label": "•"}
+        ] }
+    },
+
+
+    { "label": "t", "type": "normal", "labelFlags": 64, "width": 0.143, "popup": { "main": { "label": "4"} , "relevant":
+        [
+            { "label": "!autoOrder!8" },
+            { "label": "`" },
+            { "label": "⁴"},
+            { "label": "touchpad"},
+            { "label": "₄" },
+            { "label": "~" }, 
+            { "label": "⅘"},
+            { "label": "×"}
+        ] }
+    },
+
+
+    { "label": "y", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "5" } , "relevant":
+        [
+            { "label": "!autoOrder!8" },
+            { "label": "₅" },
+            { "label": "⁵" },
+            { "label": "redo" },
+            { "label": "⅚" },
+            { "label": "⅝" }
+        ] }
+    },
+
+
+    { "label": "p", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "6" }, "relevant":
+        [
+            { "label": "!autoOrder!6" },
+            { "label": "⁶" },
+            { "label": "₆"},
+            { "label": "|"},
+            { "label": "%"},
+            { "label": "π"},
+            { "label": "+"},
+            { "label": "±"},
+            { "label": "⁺"},
+            { "label": "₊"},
+            { "label": "="},
+            { "label": "#"}
+        ] }
+    }, 
+
+
+    { "label": "l", "type": "normal", "labelFlags": 64, "width": 0.143, "popup": { "main": { "label": "7" } , "relevant":
+        [
+            { "label": "!autoOrder!7" },
+            { "label": "⁷" },
+            { "label": "₇"},
+            { "label": "⅞" }, 
+            { "label": ")"},
+            { "label": "]"},
+            { "label": "⟩"},
+            { "label": "}"},
+            { "label": "\\"},
+            { "label": "|"},
+            { "label": ">"},
+            { "label": "≥"},
+            { "label": "›"},
+            { "label": "»"}
+        ] }
+    }
+  ],
+
+
+// ROW 2
+
+
+  [
+    { "label": "a", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "@" } , "relevant":
+        [
+            { "label": "!autoOrder!6" },
+            { "label": "&" },
+            { "label": "→" },
+            { "label": "←" },
+            { "label": "↑"},
+            { "label": "↓"},
+            { "label": "select_all"},
+            { "label": "tab"},
+            { "label": "~"},
+            { "label": "'"},
+            { "label": "*"}
+        ] }
+    },
+
+
+
+    { "label": ",", "type": "function", "labelFlags": 1073741888, "width": 0.11, "popup": { "main": { "label": "'" }  , "relevant":
+        [
+            { "label": "!autoOrder!6" },
+            { "label": "==" },
+            { "label": "**" },
+            { "label": "~~" },
+            { "label": "> "},
+            { "label": "- [ ] " },
+            { "label": "[]()"}, 
+            { "label": "[["},
+            { "label": "![["},
+            { "label": "()"},
+            { "label": "[]"},
+            { "label": "{}"}
+        ] }
+    },
+
+
+
+    { "label": "e", "type": "normal", "labelFlags": 64, "width": 0.1755, "popup": { "main": { "label": "8" } , "relevant":
+        [
+            { "label": "!autoOrder!5" },
+            { "label": "⁸" },
+            { "label": "₈"},
+            { "label": "–"},
+            { "label": "—"},
+            { "label": "="},
+            { "label": "≠"},
+            { "label": "≠"},
+            { "label": "≈"},
+            { "label": "…"},
+            { "label": "![[]]"}
+        ] }
+    },
+
+
+    { "label": "u", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "9" }, "relevant":
+        [
+            { "label": "!autoOrder!4" },
+            { "label": "⁹" },
+            { "label": "₉" },
+            { "label": "_"}
+        ] }
+    },
+
+
+    { "label": "i", "type": "normal", "labelFlags": 64, "width": 0.1755, "popup": { "main": { "label": "0" } , "relevant":
+        [
+            { "label": "!autoOrder!8" },
+            { "label": "⁰" },
+            { "label": "₀" },
+            { "label": "[[]]"},
+            { "label": "∞" },
+            { "label": "×"},
+            { "label": "~" },
+            { "label": "ⁿ" }
+        ] }
+    },
+
+
+    { "label": "period", "labelFlags": 1073741888, "type": "function", "width": 0.11 },
+
+
+
+    { "label": "o", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "•" } , "relevant":
+        [
+            { "label": "!autoOrder!6" },
+            { "label": "°" },
+            { "label": "∅"},
+            { "label": "Ω" }, 
+            { "label": "ⁿ"}
+        ] }
+    }
+  ],
+
+
+// ROW 3
+
+
+  [
+    { "label": "s", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "#" } , "relevant":
+        [
+            { "label": "!autoOrder!8" },
+            { "label": ";" },
+            { "label": "№"},
+            { "label": "§" }, 
+            { "label": "★"},
+            { "label": "¶"}
+        ] }
+    },
+
+
+    { "label": "d", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "$" } , "relevant":
+        [
+            { "label": "!autoOrder!7" },
+            { "label": "€" },
+            { "label": "£"},
+            { "label": "¢" }, 
+            { "label": "¥"},
+            { "label": "₱"},
+            { "label": "₹"},
+            { "label": "°"},
+            { "label": "÷"},
+            { "label": "∆"},
+            { "label": "†"},
+            { "label": "‡"}
+        ] }
+    },
+
+
+    { "label": "f", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "_" }, "relevant":
+        [
+            { "label": "%" }
+        ] }
+    },
+
+
+    { "label": "g", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "&" } , "relevant":
+        [
+            { "label": "!autoOrder!4" },
+            { "label": "<" },
+            { "label": ">"},
+            { "label": "^" }, 
+            { "label": "↓"},
+            { "label": "↑"},
+            { "label": "←"},
+            { "label": "→"}
+        ] }
+    },
+
+
+    { "label": "h", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "-" } , "relevant":
+        [
+            { "label": "—" },
+            { "label": "–" }
+        ] }
+    },
+
+
+    { "label": "j", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "+" } , "relevant":
+        [
+            { "label": "!autoOrder!5" },
+            { "label": "±" },
+            { "label": "="},
+            { "label": "≠" }, 
+            { "label": "≈"},
+            { "label": "×"},
+            { "label": "∞"},
+            { "label": "÷"},
+            { "label": "°"},
+            { "label": "·"}
+        ] }
+    },
+
+
+    { "label": "k", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "(" } , "relevant":
+        [
+            { "label": "!autoOrder!5" },
+            { "label": "[" },
+            { "label": "⟨"},
+            { "label": "{" }, 
+            { "label": "/"},
+            { "label": "|"},
+            { "label": "<"},
+            { "label": "≤"},
+            { "label": "‹"},
+            { "label": "«"}
+        ] }
+    }
+  ],
+
+
+// ROW 4
+
+
+  [
+    { "label": "z", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "*"  }, "relevant":
+        [
+            { "label": "!autoOrder!6" },
+            { "label": "undo" },
+            { "label": "★" },
+            { "label": "†" },
+            { "label": "‡" }
+        ] }
+    },
+
+    { "label": "x", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "\u0022" }, "relevant":
+        [
+            { "label": "!autoOrder!6" },
+            { "label": "cut" },
+            { "label": "×" }
+        ] }
+    },
+
+
+    { "label": "c", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "'" }, "relevant":
+        [
+            { "label": "!autoOrder!5" },
+            { "label": "," }, 
+            { "label": "clipboard" }, 
+            { "label": "```" }, 
+            { "label": "copy" },
+            { "label": "©" },
+            { "label": "^" },
+            { "label": "®" },
+            { "label": "√" }, 
+            { "label": "\u2122" }
+        ] }
+    },
+
+
+    { "label": "v", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": ":" }, "relevant":
+        [
+            { "label": "paste" }
+        ] }
+    },
+
+
+    { "label": "b", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": ";" } , "relevant":
+        [
+            { "label": "!autoOrder!5" },
+            { "label": "\u0022" },
+            { "label": "•" },
+            { "label": "." },
+            { "label": "·" }
+        ] }
+    },
+
+
+    { "label": "n", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "!" } , "relevant":
+        [
+            { "label": "!autoOrder!6" },
+            { "label": "numpad"},            
+            { "label": "¡" },
+            { "label": "ⁿ" },
+            { "label": "№" }
+        ] }
+    },
+
+
+    { "label": "m", "type": "normal", "labelFlags": 1073741888, "width": 0.143, "popup": { "main": { "label": "?" }, "relevant":
+        [
+            { "label": "!autoOrder!7" },
+            { "label": "‽" },
+            { "label": "¿" },
+            { "label": "∞" },
+            { "label": "μ" },
+            { "label": "♪" },
+            { "label": "[]()" },
+            { "label": "+" }, 
+            { "label": "±" },
+            { "label": "="},
+            { "label": "≠" }, 
+            { "label": "≈"},
+            { "label": "×"},
+            { "label": "÷"}
+        ] }
+    }
+  ]
+]
