@@ -1,3 +1,5 @@
+**See the [layouts folder](https://github.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/tree/main/Layouts) for current LeanType and FUTO layouts.**
+
 
 # Vowel Vortex main
 
