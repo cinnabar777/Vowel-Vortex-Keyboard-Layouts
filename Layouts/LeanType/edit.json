@@ -1,0 +1,233 @@
+[
+
+// ROW 1
+
+  [
+    { "code": -32, 
+      "label": "cut", 
+      "type": "function", 
+      "width": 0.1428, 
+      "popup": { "main": { "label": "copy" } }
+    },
+    { "code": -31, 
+      "label": "copy", 
+      "type": "function", 
+      "width": 0.1428, 
+      "popup": { "main": { "label": "cut" } }
+    },
+    { "code": -35, 
+      "label": "select_all", 
+      "type": "function", 
+      "width": 0.1428, 
+      "popup": { "main": { "label": "paste" } }
+    },
+    { "code": -213, 
+      "label": "clipboard", 
+      "type": "function", 
+      "width": 0.1428, 
+      "popup": { "main": { "label": "paste" } }
+    },
+    { "code": -34, 
+      "label": "select_word", 
+      "type": "function", 
+      "width": 0.1428, 
+      "popup": { "main": { "label": "paste" } }
+    },
+    { "code": -33, 
+      "label": "paste", 
+      "type": "function", 
+      "width": 0.1428, 
+      "popup": { "main": { "label": "clipboard" } }
+    },
+    { "code": -132, 
+      "label": "redo", 
+      "type": "function", 
+      "width": 0.1428 }
+  ],
+
+// ROW 2
+
+  [
+    { "label": "tab", 
+      "type": "function", 
+      "width": 0.18 },
+    { "code": -27, 
+      "label": "full_left", 
+      "width": 0.2, 
+      "popup": { "main": { "code": -25, "label": "page_start" } }
+    },
+    { "code": -23, 
+      "label": "up", 
+      "width": 0.24 },
+    { "code": -28, 
+      "label": "full_right", 
+      "width": 0.2, 
+      "popup": { "main": { "code": -26, "label": "page_end" } }
+    },
+    { "code": -131, 
+      "label": "undo", 
+      "type": "function", 
+      "width": 0.18 }
+  ],
+
+// ROW 3
+
+  [
+    { "code": -10015, 
+      "label": "word_left", 
+      "width": 0.18 },
+    { "code": -21, 
+      "label": "left", 
+      "width": 0.24 },
+    { "code": -306, 
+      "label": "select_mode", 
+      "type": "function", 
+      "width": 0.16, 
+      "popup": { "main": { "label": "select_all" }, 
+      "relevant":
+        [
+          { "label": "select_word" }
+        ] 
+      }
+    },
+    { "code": -22, 
+      "label": "right", 
+      "width": 0.24 },
+    { "code": -10016, 
+      "label": "word_right", 
+      "width": 0.18 }
+  ],
+
+// ROW 4
+
+  [
+    { "label": "0", 
+      "type": "function", 
+      "width": 0.18, 
+      "popup": { "main": { "label": "1" }, 
+      "relevant":
+        [
+          { "label": "1" },
+          { "label": "2" },
+          { "label": "3" }, 
+          { "label": "4" },
+          { "label": "5" }, 
+          { "label": "6" },
+          { "label": "7" },
+          { "label": "8" },
+          { "label": "9" },
+          { "label": "+" },
+          { "label": "-" },
+          { "label": "=" },
+          { "label": "*" },
+          { "label": "%" },
+          { "label": "×" },
+          { "label": "```" },
+          { "label": "```\n\n```" }
+        ] 
+      }
+    },
+    { "code": -10010, 
+      "label": "page_up", 
+      "type": "unspecified", 
+      "width": 0.2 },
+    { "code": -24, 
+      "label": "down", 
+      "width": 0.24 },
+    { "code": -10011, 
+      "label": "page_down", 
+      "type": "unspecified", 
+      "width": 0.2 },
+    { "code": -201, 
+      "label": "ab/=", 
+      "width": 0.18, 
+      "popup": { "main": { "label": "." }, 
+      "relevant":
+        [
+          { "label": "," },
+          { "label": "?" },
+          { "label": "!" }, 
+          { "label": "\u0022" }, 
+          { "label": "#" },
+          { "label": "()" }, 
+          { "label": "/" },
+          { "label": "\\" },
+          { "label": ";" },
+          { "label": "'" },
+          { "label": "@" },
+          { "label": ":" },
+          { "label": "-" },
+          { "label": "+" },
+          { "label": "%" },
+          { "label": "&" },
+          { "label": "[]" },
+          { "label": "{}" },
+          { "label": "=" }
+        ] 
+      }
+    }
+  ],
+
+// ROW 5
+
+  [
+    { "code": -10001, 
+      "label": "=/<", 
+      "width": 0.18 },
+    { "label": "shift", 
+      "type": "function", 
+      "width": 0.20 },
+    { "label": "space", 
+      "type": "function", 
+      "width": 0.24, 
+      "labelFlags": 1073741888, 
+      "popup": { "main": { "label": "😂" }, 
+      "relevant":
+        [
+          { "label": "🤣" },
+          { "label": "🙄" },
+          { "label": "😉" }, 
+          { "label": "😁" },
+          { "label": "😇" }, 
+          { "label": "🤐" },
+          { "label": "🤪" },
+          { "label": "🤔" },
+          { "label": "😴" },
+          { "label": "🤮" },
+          { "label": "😱" }, 
+          { "label": "😭" },
+          { "label": "💯" },
+          { "label": "😁" },
+          { "label": "👌🏻" },
+          { "label": "👍🏻" }, 
+          { "label": "👎🏻" },
+          { "label": "🫶🏻" },
+          { "label": "🤷🏻‍♂️" },
+          { "label": "🤦🏻‍♂️" }
+        ] 
+      }
+    },
+    { "label": "action", 
+      "type": "function", 
+      "width": 0.2, 
+      "popup": { "main": { "label": "text_edit" }, 
+      "relevant":
+        [
+          { "label": "touchpad" },
+          { "label": "emoji" },
+          { "label": "clipboard" }, 
+          { "label": "voice" },
+          { "label": "numpad" }, 
+          { "label": "settings" },
+          { "label": "one_handed" },
+          { "label": "incognito" },
+          { "label": "autocorrect" },
+          { "label": "language_switch" }
+        ] 
+      }
+    },
+    { "label": "delete", 
+      "type": "function", 
+      "width": 0.18 }
+  ]
+]
