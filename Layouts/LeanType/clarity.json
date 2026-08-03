@@ -260,7 +260,7 @@
     },
 
     { "label": "'", 
-      "type": "normal", 
+      "type": "function", 
       "labelFlags": 1073741888, 
       "width": 0.11, 
       "popup": { "main": { "label": "." }, 
