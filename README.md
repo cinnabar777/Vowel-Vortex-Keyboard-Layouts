@@ -4,7 +4,7 @@
 ![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_R2AEUIO_SQUARE.png)
 
 
-![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_Clarity_2.0.png)
+![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_Clarity_3.1.png)
 
 ## DESCRIPTION
 
@@ -235,7 +235,7 @@ I've also found it best, once you start getting the layout down, to switch to th
 
 Some minor sizing adjustments to help differentiate the vowels. 
 
-![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_Clarity_3.0.png)
+![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_Clarity_3.1.png)
 
 .
 
