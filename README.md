@@ -150,7 +150,7 @@ Or a more spacious version:
 
 Or this one with punctuation hidden between the vowel keys: 
 
-![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_R2-AEUIO_Clarity4.png)
+![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_R2-AEUIO_Clarity4.png.png)
 
 
 ## SMALLER DICTIONARY
