@@ -4,7 +4,7 @@
 ![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_R2AEUIO_SQUARE.png)
 
 
-![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_Clarity_3.1.png)
+![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/WMKeyboard_Main.png)
 
 ## DESCRIPTION
 
@@ -236,11 +236,13 @@ After getting some time to really use these layouts I've come to liking the "Cla
 
 I've also found it best, once you start getting the layout down, to switch to the regular qwerty layout from time to time. This seems to actually help, this layout feels much bigger after some qwerty time, secondly, while keeping you proficient on both layouts it can help you stay aware and more focused on your typing instead of it falling into an automatic gesture mess. 
 
-**Clarity 3.0**
+**Clarity 4.0**
 
-Some minor sizing adjustments to help differentiate the vowels. 
+Some minor sizing adjustments to help differentiate the vowels. Making the Vowel keys the same size as the consonant keys seems to help accuracy. 🤷🏻‍♂️
 
-![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/VV_Clarity_3.1.png)
+This is the layout I'm using with [WMKeyboard](https://github.com/wasi-master/wmkeyboard). 
+
+![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/WMKeyboard_Main.png)
 
 .
 
