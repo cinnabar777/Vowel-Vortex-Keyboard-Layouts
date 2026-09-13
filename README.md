@@ -10,6 +10,15 @@
 
 The Vowel Vortex Layouts were inspired by the ClearFlow layout, for use with Android keyboards like [WM Keyboard](https://github.com/wasi-master/wmkeyboard), [FUTO Keyboard](https://keyboard.futo.org/), [HeliBoard](https://github.com/HeliBorg/HeliBoard), and [FlorisBoard](https://github.com/florisboard/florisboard) that allow custom layouts to be used. The layouts are focused on glide (Swype, swipe, or gesture) typing on mobile without sacrificing thumb typing, increasing word clarity (decreasing typos) while maintaining familiarity with the qwerty layout.
 
+## LAYOUT LINKS 
+
+1. [WMKeyboard](https://github.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/blob/main/Layouts/WMKeyboard/Readme.md)
+2. [FUTO keyboard](https://github.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/tree/main/Layouts/FUTO)
+3. [LeanType](https://github.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/tree/main/Layouts/LeanType)
+4. [HeliBoard](https://github.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/blob/main/HeliBoard_vowel_vortex.md)
+
+**note: WM Keyboard is my current Keyboard and is the layout I'm actively maintaining.**
+
 ## THE IMPETUS
 
 The [clearflow](https://clearflowkeyboard.github.io/) layout was being added to FUTO keyboard, I hadn't really noticed it before, and ever since the demise of Swype I've been very disappointed with glide typing on other keyboards. ClearFlow is a wild departure from QWERTY! Therefore it was going to take some learning, however what started bothering me the most about it wasn't the alphabetical layout, it was the function keys on the sides and the size of the keys:
