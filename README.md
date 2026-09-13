@@ -8,7 +8,7 @@
 
 ## DESCRIPTION
 
-The Vowel Vortex Layouts were inspired by the ClearFlow layout, for use with Android keyboards like [FUTO Keyboard](https://keyboard.futo.org/), [HeliBoard](https://github.com/HeliBorg/HeliBoard), and [FlorisBoard](https://github.com/florisboard/florisboard) that allow custom layouts to be used. The layouts are focused on glide (Swype, swipe, or gesture) typing on mobile without sacrificing thumb typing, increasing word clarity (decreasing typos) while maintaining familiarity with the qwerty layout.
+The Vowel Vortex Layouts were inspired by the ClearFlow layout, for use with Android keyboards like [WM Keyboard](https://github.com/wasi-master/wmkeyboard), [FUTO Keyboard](https://keyboard.futo.org/), [HeliBoard](https://github.com/HeliBorg/HeliBoard), and [FlorisBoard](https://github.com/florisboard/florisboard) that allow custom layouts to be used. The layouts are focused on glide (Swype, swipe, or gesture) typing on mobile without sacrificing thumb typing, increasing word clarity (decreasing typos) while maintaining familiarity with the qwerty layout.
 
 ## THE IMPETUS
 
@@ -240,7 +240,7 @@ I've also found it best, once you start getting the layout down, to switch to th
 
 Some minor sizing adjustments to help differentiate the vowels. Making the Vowel keys the same size as the consonant keys seems to help accuracy. 🤷🏻‍♂️
 
-This is the layout I'm using with [WMKeyboard](https://github.com/wasi-master/wmkeyboard). 
+This is the layout I'm using with [WM Keyboard](https://github.com/wasi-master/wmkeyboard). 
 
 ![Vowel Vortex](https://raw.githubusercontent.com/cinnabar777/Vowel-Vortex-Keyboard-Layouts/refs/heads/main/images/WMKeyboard_Main.png)
 
